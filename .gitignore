@@ -54,5 +54,7 @@ ExportedObj/
 
 # Exclude local environment settings
 .env
+.vsconfig
 .DS_Store
 *.log
+
