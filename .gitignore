@@ -53,11 +53,6 @@ ExportedObj/
 *.pyd
 *.sh
 
-# Unity Collaborate and Package Manager
-/[Pp]ackages/
-/[Mm]anifest.json
-/[Pp]rojectSettings/
-
 # Exclude local environment settings
 .env
 .DS_Store
